@@ -1,0 +1,1715 @@
+    1  zsh --version
+    2  conda init zsh
+    3  conda
+    4  source ~/anaconda3/etc/profile.d/conda.sh
+    5  conda init zsh
+    6  conda
+    7  clear
+    8  code ~/.zshrc
+    9  zsh --version
+   10  sudo apt-get install powerline fonts-powerline
+   11  sudo apt-get install zsh-theme-powerlevel9k
+   12   echo "source /usr/share/powerlevel9k/powerlevel9k.zsh-theme" >> ~/.zshrc
+   13  sudo apt-get install zsh-syntax-highlighting
+   14  echo "source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> ~/.zshrc\n
+   15  conda env list
+   16  code ~/.zshrc
+   17  git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions\n
+   18  code ~/.zshrc
+   19  conda env list
+   20  sudo apt-get install git
+   21  sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/\ninstall.sh -O -)"
+   22  sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
+   23  ls
+   24  clear
+   25  code ~/.zshrc
+   26  cd /mnt/c
+   27  ls
+   28  cd fonts
+   29  ls
+   30  git clone https://github.com/powerline/fonts.git\n
+   31  ls
+   32  cd fonts
+   33  .\install.ps1\n
+   34  code ~/.zshrc
+   35  source ~/anaconda3/etc/profile.d/conda.sh
+   36  conda init zsh
+   37  conda env list
+   38  conda activate py37
+   39  conda env list
+   40  conda activate py37
+   41  conda env list
+   42  conda activate py37
+   43  jupyter notebook
+   44  conda activate base
+   45  jupyter notebook
+   46  ls
+   47  cd Desktop
+   48  ls
+   49  cd Daily
+   50  cd WSL
+   51  jupyter notebook
+   52  code
+   53  code ~/.zshrc
+   54  cd .
+   55  ~
+   56  ls
+   57  cd  /mnt/c/Users/hnhtd
+   58  ls
+   59  conda activate py37
+   60  ls
+   61  cd Desktop
+   62  cd Da
+   63  cd Daily
+   64  ls
+   65  cd WSL
+   66  history > 01.txt
+   67  history > 02.txt
+   68   history > /mnt/c/Users/hnhtd/Desktop/Daily/wsl/07.txt
+   69  history > /mnt/c/Users/hnhtd/Desktop/Daily/wsl/08.txt
+   70  history > /mnt/c/Users/hnhtd/Desktop/Daily/wsl/09.txt
+   71  history > /mnt/c/Users/hnhtd/Desktop/Daily/wsl/10.txt
+   72  history > /mnt/c/Users/hnhtd/Desktop/Daily/wsl/11.txt
+   73  history > /mnt/c/Users/hnhtd/Desktop/Daily/wsl/12.txt
+   74  history > /mnt/c/Users/hnhtd/Desktop/Daily/wsl/13.txt
+   75  history > /mnt/c/Users/hnhtd/Desktop/Daily/wsl/14.txt
+   76  history > /mnt/c/Users/hnhtd/Desktop/Daily/wsl/15.txt
+   77  python --version
+   78  jupyter notebook
+   79  cd  /Desktop/Daily/WSL
+   80  ls
+   81  cd /Desktop/
+   82  CD ls
+   83  ls
+   84  cd /Desktop/
+   85  ls
+   86  cd Desktop/
+   87  ls
+   88  cd Desktop/Daily/WSL
+   89  echo myfile.txt
+   90  ls
+   91  cd Daily
+   92  cd WSL
+   93  ls
+   94  echo myfile.txt
+   95  ls
+   96  touch myfile.txt
+   97  ls
+   98  echo
+   99  echo myfile.txt
+  100  ls
+  101  echo history > myfile.txt
+  102  ls
+  103  cat myfile.txt
+  104  history > myfile.txt
+  105  ls
+  106  cat myfile.txt
+  107  ls
+  108  cd Daily
+  109  ls
+  110  cd Daily
+  111  dir
+  112  ls
+  113  cd Desktop/Daily/WSL
+  114  jupyter notebook
+  115  code
+  116  vs code
+  117  ls
+  118  cd Desktop/Daily/WSL
+  119  history > /mnt/c/Users/hnhtd/Desktop/Daily/wsl/12.txt
+  120  ls
+  121  conda activate py37
+  122  ls
+  123  conda activate base
+  124  ls
+  125  cd Desktop/Daily/WSL
+  126  ls
+  127  +tocuh 
+  128  tocuh 12.txt
+  129  nano 12.txt
+  130  conda activate base
+  131  conda activate py37
+  132  ls
+  133  jupyter notebook
+  134  conda activate base
+  135  ls
+  136  jupyter notebook
+  137  python --version
+  138  conda activate py37
+  139  python --version
+  140  conda activate base
+  141  jupyter notebook
+  142  pip install jupyter_contrib_nbextensions
+  143  jupyter notebook
+  144  conda install -c conda-forge jupyter_contrib_nbextensions\n
+  145  jupyter nbextension --version
+  146  jupyter notebook
+  147  history > hist01.txt
+  148  history > hist02.txt
+  149  history > hist03.txt
+  150  pwd
+  151  cd Desktop/Daily/WSL
+  152  cd ..
+  153  ls
+  154  cd WSLGit
+  155  ls
+  156  git
+  157  git init
+  158  y
+  159  git add .
+  160  git status
+  161  git commit -m "First Commit"
+  162  git config
+  163  git config hessnej
+  164  git config user.name hessnej
+  165  ls
+  166  git commit -m "First Commit"
+  167  git remote add origin https://github.com/samnejati/Alihjz.git
+  168  git push -u origin master
+  169  history > git_setup_commands.txt
+  170  git push git_setup_commands.txt
+  171  git push -u origin master
+  172  history > git_setup_commands2.txt
+  173  git push -u origin master
+  174  git add .
+  175  git push -u origin master
+  176  git commit -m "second Commit"
+  177  git add .
+  178  git st
+  179  git status
+  180  git commit -m "second Commit"
+  181  git push -u origin master
+  182  pip install deep-translator
+  183  jupyter notebook
+  184  vs code
+  185  conda env list
+  186  conda activate base
+  187  vs code
+  188  code --version
+  189  code --help
+  190  ls
+  191  cd Desktop/Daily/VSCodeProjects
+  192  code .
+  193  /bin/python3 /mnt/c/Users/hnhtd/Desktop/Daily/WSL/VScodes/main.py
+  194  echo $PATH
+  195  code .
+  196  code
+  197  sudo apt purge code
+  198  code
+  199  which python
+  200  conda activate p
+  201  conda activate py37
+  202  which python
+  203  conda activate base
+  204  which python
+  205  cd Desktop/Daily/WSL
+  206  ls
+  207  jupyter notebook
+  208  ls
+  209  cd Desktop/Daily/WSL
+  210  mkdir temp
+  211  code temp
+  212  $PATH
+  213  code $PATH
+  214  echo $PATH
+  215  temp $PATH
+  216  conda activate base
+  217  conda activate py37
+  218  conda activate base
+  219  jupyter notebook
+  220  /bin/python3 /mnt/c/Users/hnhtd/Desktop/Daily/WSL/temp/main.py
+  221  pip install numpy
+  222  /bin/python3 /mnt/c/Users/hnhtd/Desktop/Daily/WSL/temp/main.py
+  223  cd Desktop/Daily/WSL
+  224  code temp
+  225  /bin/python3 /mnt/c/Users/hnhtd/Desktop/Daily/WSL/temp/main.py
+  226  numpy
+  227  pip install numpy
+  228  pip numpy
+  229  pip install pandas
+  230  code
+  231  /bin/python3 /mnt/c/Users/hnhtd/Desktop/Daily/WSL/test/main.py
+  232  cd Desktop/Daily/WSL
+  233  jupyter notebook
+  234  pip install jupyterlab
+  235  jupyterlab
+  236  ls
+  237  git --version
+  238  $ sudo apt-get install git\n
+  239  sudo apt-get install git\n
+  240  cd Desktop/Daily/WSL
+  241  mkdir project
+  242  cd project
+  243  pwd
+  244  ls
+  245  vs code
+  246  vscode
+  247  code
+  248  cd ..
+  249  cd project
+  250  s
+  251  ls
+  252  cd project
+  253  pwd
+  254  git --version
+  255  cd Desktop/Daily/WSL
+  256  code
+  257  jupyterlab
+  258  jupyter notebook
+  259  conda activate base
+  260  ls
+  261  cd Desktop/Daily/WSL
+  262  ls
+  263  mkdir Coursera
+  264  conda env list
+  265  history > condaCommand01.txt
+  266  conda create --name py382 python=3.8.2
+  267  conda activate py382
+  268  python --version
+  269  pip
+  270  pip install coursera-dl
+  271  coursera-dl
+  272  ls
+  273  cd Desktop/Daily/WSL
+  274  cd c:
+  275  cd Desktop/Daily/WSL
+  276  cd ..
+  277  cd ~
+  278  l
+  279  ls
+  280  cd Desktop/Daily/WSL
+  281  cd /
+  282  cd \\ncd ..
+  283  ls
+  284  cd dev
+  285  ls
+  286  cd ..
+  287  cd /root/
+  288  pwd
+  289  cd /d
+  290  ls
+  291  cd mnt
+  292  ls
+  293  cd.
+  294  cd..
+  295  cd ~
+  296  cd dev
+  297  ls
+  298  cd~
+  299  cd ~
+  300  cd ..
+  301  ls
+  302  cd ..
+  303  ls
+  304  cd dev
+  305  ls
+  306  cd sda
+  307  cd  /mnt/c/Users/hnhtd
+  308  cd Desktop/Daily/WSL
+  309  mkdir Coursera
+  310  cd Coursera/
+  311  ls
+  312  coursera-dl cse543informationassuranceandsecurity
+  313  conda env list
+  314  coursera-dl cse571artificialintelligence
+  315  coursera-dl cse511
+  316  coursera-dl cse572
+  317  coursera-dl cse578
+  318  coursera-dl cse575
+  319  jupyter notebook
+  320  history > Command_History_courseradl_01.txt\n
+  321  ls
+  322  gcc --version
+  323  sudo install gcc 
+  324  conda env list
+  325  conda activate py37
+  326  sudo apt update
+  327  sudo apt install build-essential
+  328  sudo apt-get install manpages-dev
+  329  gcc --version
+  330  g++
+  331  g++ help
+  332  g++ --help
+  333  cd Desktop/Daily/WSL
+  334  cd ..
+  335  cd CSE543-Information\ Assurance
+  336  cd 3\ -\ fuzz
+  337  ls
+  338  cd Done\ 01
+  339  g++ fuzzer-new.cpp -o fuzzer
+  340  ./fuzzer 500 15000 | ./prog_0\n
+  341  ./fuzzer 1000 15000 | ./prog_0\n
+  342  ./fuzzer 20000 15000 | ./prog_0\n
+  343  ./fuzzer 20000 500 | ./prog_0\n
+  344  sudo apt-get install openvpn
+  345  openvpn
+  346  openvpn --version
+  347  cd ..
+  348  ls
+  349  cd VPN
+  350  ls
+  351  cd HessamConfig
+  352  ls
+  353  ls -la
+  354  sudo openvpn hnejatih@asu.edu.conf
+  355  history > Command_History_openvpn.txt\n
+  356  code
+  357  code.
+  358  vscode
+  359  ls
+  360  conda activate py37
+  361  vscode
+  362  code.
+  363  code .
+  364  source /home/lg/anaconda3/bin/activate
+  365  conda activate base
+  366  cd Done\ 01
+  367  conda activate py37
+  368  cd Desktop/Daily/WSL
+  369  ls
+  370  cd ..
+  371  cd CSE543-Information\ Assurance
+  372  ls
+  373  cd 3\ -\ fuzz
+  374  cd Dav_Fuzzer
+  375  ls
+  376  cd FuzzerSourceCode
+  377  code 
+  378  g++
+  379  g++ --help
+  380  sudo openvpn hnejatih@asu.edu.conf
+  381  conda activate base
+  382  conda activate py37
+  383  sudo openvpn hnejatih@asu.edu.conf
+  384  conda activate base
+  385  openvpn --version
+  386  ls
+  387  cd CSE543-Information\ Assurance
+  388  ls
+  389  cd VPN
+  390  cd HessamConfig
+  391  ls
+  392  sudo openvpn hnejatih@asu.edu.conf
+  393  ping --version
+  394  ping 172.16.44.0
+  395  jupyter notebook
+  396  ls
+  397  cd HessamConfig
+  398  cping 172.16.4
+  399  cd Desktop/Daily/WSL
+  400  ls
+  401  mkdir WebSecurity
+  402  ls
+  403  cd WebSecurity
+  404  ls
+  405  conda activate py37
+  406  pip install theHarvester
+  407  theHarvester --version
+  408  python theHarvester.py
+  409  py -m venv tutorial_env
+  410  pip install theHarvester
+  411  theHarvester -d lenscharm.com
+  412  theHarvester
+  413  conda activate py37
+  414  theHarvester
+  415  conda activate base
+  416  pip install theHarvester
+  417  theHarvester
+  418  conda activate py37
+  419  python3.7 theHarvester.py -h 
+  420  python3.7 theHarvester.py
+  421  git clone https://github.com/laramies/theHarvester \n
+  422  cd theHarvester
+  423  pwd
+  424  python3.7 -m pip install -r requirements/dev.txt
+  425  python3.7 -m pip install -r requirements/base.txt
+  426  python3.7 theHarvester.py -h
+  427  python3.7   theHarvester.py   -d   gmail.com   -l   500   -b   google
+  428  python3.7   theHarvester.py   -d   lenscharm.com
+  429  python3.7 theHarvester.py -h kaluts.com
+  430  python3.7   theHarvester.py   -d   lenscharm.com
+  431  python3.7   theHarvester.py   -d   kaluts.com
+  432  python3.7   theHarvester.py   -d   https://www.hejazizo.com/
+  433  python3.7 theHarvester.py -d hejazizo.com
+  434  python3.7 theHarvester.py -d https://www.55online.news/
+  435  python3.7   theHarvester.py   -d   lenscharm.com   -l   500   -b   google
+  436  python3.7   theHarvester.py   -d   lenscharm.com   -l   5   -b   google
+  437  python3.7   theHarvester.py   -d   kaluts.com   -l   500   -b   google
+  438  python3.7   theHarvester.py   -d   tradovision.com   -l   500   -b   google
+  439  python3.7   theHarvester.py   -d   hejazizo.com   -l   500   -b   google
+  440  python3.7   theHarvester.py   -d   lenscharm.com   -l   500   -b   google
+  441  ython3.7   theHarvester.py   -d   kaluts.com   -l   500   -b   google
+  442  conda activate py37
+  443  python3.7   theHarvester.py   -d   lenscharm.com   -l   500   -b   google
+  444  python3.7 
+  445  python3.7   theHarvester.py   -h
+  446  python --version
+  447  python theHarvester.py -d lenscharm.com -b all
+  448  conda activate py37
+  449  python theHarvester.py -d lenscharm.com -b all
+  450  pip install theHarvester
+  451  python3.7 theHarvester.py -h 
+  452  pwd
+  453  cd theHarvester
+  454  python3.7 theHarvester.py -h 
+  455  python3.7   theHarvester.py   -d   lenscharm.com   -l   500  -b   google
+  456  python theHarvester.py -d lenscharm.com -b all
+  457  conda activate py37
+  458  chmod +x burpsuite_community_v1.7.36.jar
+  459  java -version
+  460  sudo apt-get install openjdk-8-jre
+  461  pwd
+  462  ls
+  463  d:
+  464  cd Desktop/Daily/WSL
+  465  ls
+  466  cd /mnt/d/
+  467  ls
+  468  cd WSL
+  469  ls
+  470  cd CSE543
+  471  ls
+  472  cd Burp
+  473  ls
+  474  chmod +x
+  475  chmod +x  burpsuite_community_v2021.9.1.jar
+  476  ./burpsuite_community_v1.7.36.jar
+  477  ls
+  478  ./burpsuite_community_v1.7.36.jar
+  479  burpsuite_community_v1.7.36.jar
+  480  chmod +x  burpsuite_community_v2021.9.1.jar
+  481  ./burpsuite_community_v1.7.36.jar
+  482  sh burpsuite_community_linux_v1_7_36.sh\n
+  483  ls
+  484  ./burpsuite_community_v2021.9.1.jar
+  485  n
+  486  cd C:\Users\hnhtd\Desktop\CSE543-Information Assurance\3 - fuzz\Hessam Submission
+  487  cd rC:\Users\hnhtd\Desktop\CSE543-Information Assurance\3 - fuzz\Hessam Submission
+  488  cd ..
+  489  ls
+  490  cd hnhtd
+  491  cd Desktop
+  492  cd CSE543-Information\ Assurance
+  493  cd 3\ -\ fuzz
+  494  cd Hessam\ Submission
+  495  ls
+  496  cd prog0
+  497  ./fuzzer 450 5000 | ./prog_0\n
+  498  ls
+  499  chmod +x fuzzer
+  500  ./fuzzer 450 5000 | ./prog_0\n
+  501  fuzzer
+  502  .\fuzzer 450 5000 | .\prog_0\n
+  503  ./prog
+  504  ./prog0
+  505  ./prog_0
+  506  conda activate py37
+  507  fuzzer
+  508  ./prog_0
+  509  ./fuzzer
+  510  sudo apt-get install g++
+  511  ./fuzzer 450 5000 | ./prog_0\n
+  512  chmod +x fuzzer
+  513  ./fuzzer 450 5000 | ./prog_0\n
+  514  ./fuzzer
+  515  cd..
+  516  cd ..
+  517  lsd
+  518  l
+  519  ls
+  520  cd Hessam\ Last\ file\ Dav
+  521  clear
+  522  ls
+  523  ./fuzzer
+  524  ./fuzzer 450 5000 | ./prog_0\n
+  525  ./fuzzer 420 5000 | ./prog_0\n
+  526  ./fuzzer 420 10000 | ./prog_1\n
+  527  ./fuzzer 4500 5005 | ./prog_2\n
+  528  history > fuzzer commands.txt\n
+  529  history > fuzzer_commands.txt\n
+  530  history
+  531  cd ..
+  532  cd
+  533  cd \\nsldkj
+  534  cd /
+  535  ls
+  536  cd mnt
+  537  ls
+  538  cd ..
+  539  ls
+  540  cd usr
+  541  ls
+  542  cd ..
+  543  ls
+  544  cd home
+  545  ls
+  546  cd lg
+  547  ls
+  548  cd ..
+  549  cd etc
+  550  ls
+  551  cd ..
+  552  cd mnt
+  553  cd v
+  554  cd c
+  555  ls
+  556  cd hnhtd
+  557  cd Users
+  558  ls
+  559  cd hnhtd
+  560  ls
+  561  cd D
+  562  cd Desktop
+  563  cd CSE543-Information\ Assurance
+  564  ls
+  565  cd 3\ -\ fuzz
+  566  history > fuzzer_commands.txt\n
+  567  ls
+  568  cd Desktop
+  569  ls
+  570  cd Daily
+  571  ls
+  572  mkdir December2021
+  573  cd December2021
+  574  jupyter notebook
+  575  git --version
+  576  ls
+  577  cd Desktop/Daily/WSL
+  578  ls
+  579  mkdir December2021
+  580  ls
+  581  cd December2021
+  582  ls
+  583  makdir sina01
+  584  mkdir sina01
+  585  cd sina01
+  586  git init
+  587  nano sinatext
+  588  ls
+  589  cat sinatext
+  590  git status
+  591  git add sinatext
+  592  git status
+  593  git commit -m "sina helped me to make the first commit"
+  594  nano sinatext2
+  595  git status
+  596  git add sinatext2
+  597  git status
+  598  history > sina-git-commands01.txt\n
+  599  ls
+  600  git status
+  601  ls
+  602  cd Desktop/Daily/WSL
+  603  ls
+  604  cd December2021
+  605  ls
+  606  mkdir slackdonwload
+  607  ls
+  608  cd slackdonwload
+  609  jupyter notebook
+  610  history > sina-git-commands02.txt\n
+  611  ls
+  612  cd Desktop/Daily/WSL
+  613  ls
+  614  mkdir jonKrohn
+  615  cd jonKrohn
+  616  mkdir ML
+  617  cd ML
+  618  ls
+  619  git status
+  620  git --version
+  621  git clone https://github.com/jonkrohn/ML-foundations.git
+  622  ls
+  623  cd ML-foundations
+  624  ls
+  625  cd notebooks
+  626  ls
+  627  jupyter notebook 1-intro-to-linear-algebra.ipynb
+  628  jupyter notebook
+  629  cd Desktop/Daily/WSL
+  630  cd December2021
+  631  cd sina01
+  632  git status
+  633  cd ..
+  634  ls
+  635  mkdir sina02
+  636  cd sina02
+  637  ls
+  638  git init
+  639  ls
+  640  ls -a
+  641  cd ..
+  642  ls -a
+  643  cd sina02
+  644  ls -a
+  645  nano textsina.txt
+  646  ls
+  647  nano
+  648  ls
+  649  git status
+  650  git commit
+  651  ls
+  652  git add .
+  653  ls
+  654  git status
+  655  git commmit .
+  656  git commmit textsinagit.txt
+  657  git commmit textsinagit.txt -m "First commited file"
+  658  git commit textsinagit.txt -m "First commited file"
+  659  git config --global user.name "samnejati" 
+  660  git config --global user.email "hessamesl@gmail.com" 
+  661  git status
+  662  git commit textsinagit.txt -m "First commited file"
+  663  git log
+  664  q is for logging out
+  665  git log --oneline
+  666  ssh 
+  667  ssh --version
+  668  ~
+  669  ls -a
+  670  ssh-keygen 
+  671  ls -a
+  672  cd .ssh
+  673  ls
+  674  ls -a
+  675  cat id_rsa.pub
+  676  ssh-add id_rsa
+  677  ssh-agent -s
+  678  eval $(ssh-agent -s)
+  679  ssh-add id_rsa
+  680  cd ~
+  681  ld
+  682  ls
+  683  ~
+  684  ls
+  685  cd mnt
+  686  ls
+  687  cd anaconda3
+  688  ls
+  689  cd ..
+  690  cd /mnt/c/Users/hnhtd
+  691  alias -help
+  692  help(alias) 
+  693  help alias
+  694  cd Desktop/Daily/WSL
+  695  cd December2021
+  696  ls
+  697  cd sina02
+  698  ls
+  699  cd ..
+  700  cd sina02
+  701  git clone git@github.com:samnejati/sina01.git
+  702  l
+  703  cd sina01
+  704  ls
+  705  cat README.md
+  706  git origin
+  707  origin
+  708  cd ..
+  709  ls
+  710  git remote
+  711  cd sina01
+  712  git remote
+  713  nano pysina1.py
+  714  ls
+  715  git status
+  716  git add .
+  717  ls
+  718  git status
+  719  git commit pysina1.py -m "First py file"
+  720  ls
+  721  git commit 
+  722  git status
+  723  git push 
+  724  ls
+  725  nano changesina1.txt
+  726  ls
+  727  git add changesina1.txt
+  728  git status
+  729  git commit changesina1.txt "adding new file 02"
+  730  git commit changesina1.txt -m "adding new file 02"
+  731  git status
+  732  git push
+  733  git pull
+  734  git push
+  735  cd ..
+  736  ls
+  737  code.
+  738  code .
+  739  git clone git@github.com:samnejati/cryptoapi.git
+  740  cls
+  741  cl
+  742  clear
+  743  ls
+  744  cd cry
+  745  cd cryptoapi
+  746  ls
+  747  code .
+  748  conda env list
+  749  conda create --name cryptoapi python=3.8
+  750  conda adctivate cryptoapi
+  751  conda activate cryptoapi
+  752  pip install pip pyTelegramBotAPI
+  753  ls
+  754  pip freeze
+  755  pip freeze | grep p
+  756  export x = 10
+  757  export x=10
+  758  echo $x
+  759  export telegramToken=5069753246:AAHnU_pUHOv71qkVWSbHIInQxR6rn3yU2tc
+  760  ls
+  761  echo $telegramToken
+  762  ls
+  763  pwd
+  764  cd src
+  765  ls
+  766  python main.py
+  767  pip install laguru
+  768  pip install loguru
+  769  pip freeze | grep p
+  770  pip freeze | grep 
+  771  pip freeze
+  772  pip freeze | grep log
+  773  python main.py
+  774  clear
+  775  python main.py
+  776  git status
+  777  ls
+  778  cd ..
+  779  ls
+  780  git push
+  781  git add .
+  782  ls
+  783  git commit
+  784  git push
+  785  code .
+  786  clear
+  787  jupyter notebook
+  788  python main.py
+  789  ls
+  790  cd src
+  791  python main.py
+  792  export PYTHONPATH=${PWD}
+  793  cd ..
+  794  export PYTHONPATH=${PWD}
+  795  python src.main.py
+  796  pwd
+  797  cd ..
+  798  history > sina-git-commands-3hrs.txt
+  799  history > c:/sina-git-commands-3hrs.txt
+  800  history > /mnt/c/Users/hnhtd/Desktop/Daily/WSL/sina-git-commands-3hrs.txt
+  801  ls
+  802  which python
+  803  cd /home/lg/anaconda3/bin/python
+  804  which conda
+  805  conda ()\nls
+  806  conda create --name cse579 python=3.8
+  807  cd Desktop/Daily/WSL
+  808  conda create --name cse579 python=3.8
+  809  cd ..
+  810  cd CSE579-
+  811  ls
+  812  cd Desktop/Daily/WSL
+  813  ls
+  814  cd d
+  815  cd Daily
+  816  cd ..
+  817  cd CSE\ 579\ Knowledge\ Representation\ and\ Reasoning
+  818  cd ..
+  819  cd D
+  820  cd Daily
+  821  ls
+  822  mkdir CSE579
+  823  cd CSE579
+  824  ls
+  825  conda create --name cse579 python=3.8
+  826  conda activate cse579
+  827  ls
+  828  conda activate cse579
+  829  conda activate base
+  830  conda activate py39
+  831  cd Desktop/Daily/WSL
+  832  conda activate py39
+  833  conda info --envs
+  834  conda env list
+  835  conda create --name CSE579 python=3.7
+  836  conda list
+  837  conda env list
+  838  conda activate cse579
+  839  conda activate CSE579
+  840  conda install -c potassco clingo
+  841  sudo apt-get update sudo apt-get installl gringo
+  842  sudo apt-get update sudo apt-get install gringo
+  843  gringo --version
+  844  sudo apt-get upgrade gringo
+  845  clingo
+  846  cd CSE579
+  847  ls
+  848  mkdir CSE579
+  849  cd CSE579
+  850  ls
+  851  cat text.txt
+  852  cat <<EOF =>test.txt\n1{p(1..6)}.\nEOF
+  853  ls
+  854  nano test.txt
+  855  ls
+  856  clingo text.txt 0
+  857  python --version
+  858  clingo program1.pl
+  859  clingo program1.lp
+  860  clingo text.txt 0
+  861  clingo program.lp 0
+  862  clingo
+  863  clingo program.lp
+  864  clingo Program.lp 0
+  865  history C /mnt/c/Users/hnhtd/Desktop/Daily/WSL/sina-git-commands-3hrs.txt
+  866  history > 579command01.txt
+  867  ls
+  868  nano 579command01.txt
+  869  clingo text.txt 0
+  870  clingo Program.lp 0
+  871  clingo test.txt 0
+  872  clingo test.txt 0 > 1.txt
+  873  clingo test.txt -c 0
+  874  clingo test.txt 0
+  875  clingo test.txt -c n=3 0
+  876  clingo test.txt -c n=2 0
+  877  clingo test.txt -c n=8 0
+  878  cd Desktop/Daily/WSL
+  879  ls
+  880  mkdir NaserRazavi
+  881  mkdir MLCodes
+  882  cd NaserRazavi
+  883  mkdir MLCodes
+  884  cd MLCodes
+  885  jupyter notebook
+  886  cd Desktop/Daily/WSL
+  887  ls
+  888  mkdir ali
+  889  cd ali
+  890  ls
+  891  conda activate py37
+  892  conda env list
+  893  jupyter notebook
+  894  conda activate base
+  895  jupyter notebook
+  896  conda activate py37
+  897  pip instal notebook
+  898  pip install notebook\n
+  899  jupyter notebook
+  900  conda activate py37
+  901  pip install wordcloud
+  902  pip list
+  903  conda activate py37
+  904  pip install -U selenium
+  905  cd Desktop/Daily/WSL
+  906  ls
+  907  mkdir myProjects
+  908  cd myProjects
+  909  wget https://github.com/mozilla/geckodriver/releases/download/v0.30.0/geckodriver-v0.30.0-linux32.tar.gz
+  910  tar -xvzf geckodriver*
+  911  ls
+  912  chmod +x geckodriver
+  913  ls
+  914  export PATH=$PATH:/path-to-extracted-file/.
+  915  jupyter notebook
+  916  conda activate py37
+  917  sudo pip install selenium\n\n
+  918  pip list
+  919  ls
+  920  sudo pip install selenium\n\n
+  921  sudo help
+  922  help suro
+  923  help
+  924  pip install selenium
+  925  jupyter notebook
+  926  export PATH=$PATH:/path-to-extracted-file/.
+  927  jupyter notebook
+  928  cd Desktop/Daily/WSL
+  929  cd myProjects/
+  930  chmod 755 /mnt/c/Users/hnhtd/Desktop/Daily/WSL/myProjects
+  931  cd ..
+  932  ls
+  933  help
+  934  cd myProjects/
+  935  ls
+  936  chmod +x ./geckodriver
+  937  chmod +x  /mnt/c/Users/hnhtd/Desktop/Daily/WSL/myProjects
+  938  jupyter notebook
+  939  cd ..
+  940  cd m
+  941  cd myProjects/
+  942  ls
+  943  mkdir openTabs
+  944  cd openTabs
+  945  ls
+  946  jupyter notebook
+  947  \n    python3 -m pip install pyautogui
+  948  pip list
+  949  sudo apt-get install scrot
+  950  sudo apt-get install python3-tk
+  951  sudo apt-get install python3-dev
+  952  conda activate py37
+  953  clingo --version
+  954  conda activate CSE579
+  955  clingo --version
+  956  cd Desktop/Daily/WSL
+  957  ls
+  958  cd CSE579
+  959  ls
+  960  history > 579command02.txt
+  961  ls
+  962  clingo Program.lp 0
+  963  cat Program.lp
+  964  ls
+  965  mkdir Assignment1
+  966  cd Assignment1
+  967  clingo Problem.lp 0
+  968  clingo Problem1.lp 0
+  969  clingo Problem1.lp -c n=8 0
+  970  conda activate CSE579
+  971  cd Desktop/Daily/WSL
+  972  cd ..
+  973  ls
+  974  cd ..
+  975  ls
+  976  cd Desktop/Daily/WSL
+  977  ls
+  978  cd ..
+  979  ls
+  980  cd ..
+  981  ls
+  982  cd home
+  983  ls
+  984  cd lg
+  985  ls
+  986  cd ..
+  987  cd mnt
+  988  ls
+  989  cd wsl
+  990  ls
+  991  cd ..
+  992  cd c
+  993  ls
+  994  clingo Problem1.lp -c n=8 0
+  995  clingo Problem2.lp -c n=3 0
+  996  clingo Problem2.lp -c n=4 0
+  997  clingo Problem2.lp -c n=5 0
+  998  clingo Problem2.lp -c n=3 0
+  999  clingo Problem2.lp -c n=4 0
+ 1000  clingo Problem2.lp -c n=5 0
+ 1001  clingo Problem2.lp -c n=6 0
+ 1002  clingo Problem2.lp -c n=7 0
+ 1003  clingo Problem2.lp -c n=8 0
+ 1004  clingo Problem2.lp -c n=9 0
+ 1005  clingo Problem2.lp -c n=10 0
+ 1006  clingo Problem2.lp -c n=11 0
+ 1007  clingo Problem2.lp -c n=12 0
+ 1008  clingo Problem3.lp 0
+ 1009  clingo Problem4.lp 0
+ 1010  clingo Problem5.lp 0
+ 1011  clingo Problem6.lp 0
+ 1012  clingo Problem7.lp 0
+ 1013  clingo Problem8.lp -c n=3 0
+ 1014  clingo Problem8.lp -c n=4 0
+ 1015  clingo Problem8.lp -c n=5 0
+ 1016  clingo Problem9.lp -c n=2 -c k=1
+ 1017  clingo Problem9.lp -c n=8 -c k=2
+ 1018  clingo Problem9.lp -c n=23 -c k=3
+ 1019  clingo Problem9.lp -c n=66 -c k=4
+ 1020  clingo Problem9.lp -c n=67 -c k=4
+ 1021  history > 579command03.txt
+ 1022  conda activate CSE579
+ 1023  clingo Problem9.lp -c n=67 -c k=4
+ 1024  ls
+ 1025  cd Desktop/Daily/WSL
+ 1026  ls
+ 1027  cd CSE579
+ 1028  ls
+ 1029  cd Assignment1
+ 1030  ls
+ 1031  clingo Proble1.lp -c n=2 -c k=4
+ 1032  clingo Problem1.lp -c n=2 -c k=4
+ 1033  clingo Problem5.lp -c n=2 -c k=4
+ 1034  ls
+ 1035  nano 579command01.txt
+ 1036  cat 579command03.txt
+ 1037  ls
+ 1038  cd ..
+ 1039  ls
+ 1040  mkdir Assignment2
+ 1041  cd Assignment2
+ 1042  ls
+ 1043  clingo blocks.lp blocks-scenario.lp -c m=4 -c\ngrippers=1 -c n=4 0
+ 1044  clingo blocks.lp blocks-scenario.lp -c m=5 -c grippers=1 -c n=4 0
+ 1045  clingo blocks.lp blocks-scenario.lp -c m=6 -c grippers=1 -c n=4 0
+ 1046  clingo blocks.lp blocks-scenario.lp -c m=7 -c grippers=1 -c n=4 0
+ 1047  clear
+ 1048  clingo blocks.lp blocks-scenario.lp -c m=7 -c grippers=1 -c n=4 0
+ 1049  clear
+ 1050  clingo blocks.lp blocks-scenario.lp -c m=7 -c grippers=1 -c n=4 0
+ 1051  clear
+ 1052  clingo blocks.lp blocks-scenario.lp -c m=4 -c grippers=1 -c n=4 0
+ 1053  clingo blocks.lp blocks-scenario.lp -c m=5 -c grippers=1 -c n=4 0
+ 1054  clingo blocks.lp blocks-scenario.lp -c m=6 -c grippers=1 -c n=4 0
+ 1055  clingo blocks.lp blocks-scenario.lp -c m=7 -c grippers=1 -c n=4 0
+ 1056  clingo blocks.lp blocks-scenario.lp -c m=2 -c n=4 0
+ 1057  clingo blocks.lp blocks-scenario.lp -c m=2 n=4 0
+ 1058  clingo blocks.lp blocks-scenario.lp -c m=2 -c n=4 0
+ 1059  clingo blocks.lp blocks-scenario.lp -c m=3 -c n=4 0
+ 1060  clingo blocks.lp blocks-scenario.lp -c m=4 -c n=4 0
+ 1061  clingo blocks.lp blocks-scenario.lp -c m=5 -c n=4 0
+ 1062  clingo blocks.lp blocks-scenario.lp -c m=clear -c n=4 0
+ 1063  clear
+ 1064  clingo blocks.lp blocks-scenario.lp -c m=2 c n=4 0
+ 1065  clingo blocks.lp blocks-scenario.lp -c m=2 -c n=4 0
+ 1066  clingo blocks.lp blocks-scenario.lp -c m=3 -c n=4 0
+ 1067  clingo blocks.lp blocks-scenario.lp -c m=4 -c n=3 0
+ 1068  clingo blocks.lp blocks-scenario.lp -c m=5 -c n=3 0
+ 1069  ls
+ 1070  cd ..
+ 1071  ls
+ 1072  cd FinalProject
+ 1073  ls
+ 1074  clingo automatedwarehouse.lp inst1.asp -c t=13
+ 1075  clingo automatedwarehouse.lp inst2.asp -c t=11
+ 1076  clingo automatedwarehouse.lp inst3.asp -c t=7
+ 1077  clingo automatedwarehouse.lp inst4.asp -c t=10
+ 1078  clingo automatedwarehouse.lp inst5.asp -c t=6
+ 1079  clingo automatedwarehouse.lp inst5.asp -c t=5
+ 1080  ls
+ 1081  history > 579_AutomatedWarehouse_commands.txt
+ 1082  ls
+ 1083  cat 579_AutomatedWarehouse_commands.txt
+ 1084  conda activate py37
+ 1085  jupyter notebook
+ 1086  ls
+ 1087  x\nport PATH=$PATH:/path-to-extracted-file/.
+ 1088  conda activate py37
+ 1089  conda list
+ 1090  conda activate base
+ 1091  conda list
+ 1092  conda env list
+ 1093  conda activate py37
+ 1094  ls
+ 1095  cd FinalProject
+ 1096  ls
+ 1097  cd anaconda3
+ 1098  ls
+ 1099  cd /
+ 1100  ls
+ 1101  cd mnt
+ 1102  ls
+ 1103  cd wsl
+ 1104  ls
+ 1105  cd ..
+ 1106  cd c
+ 1107  ls
+ 1108  cd /mnt/c/Users/hnhtd/Desktop/Daily
+ 1109  ls
+ 1110  cd WSL
+ 1111  ls
+ 1112  mkdir FileScraping
+ 1113  cd FileScraping
+ 1114  ls
+ 1115  jupyter notebook
+ 1116  ls
+ 1117  cd Desktop/Daily/WSL
+ 1118  ls
+ 1119  conda activate py37
+ 1120  ls
+ 1121  cd Desktop/Daily/WSL
+ 1122  ls
+ 1123  cd ~
+ 1124  ls
+ 1125  pwd
+ 1126  cd ..
+ 1127  ls
+ 1128  cd ..
+ 1129  ls
+ 1130  cd home
+ 1131  ls
+ 1132  cd u
+ 1133  cd usr
+ 1134  cd ..
+ 1135  ls
+ 1136  cd usr
+ 1137  ls
+ 1138  cd bin
+ 1139  ls
+ 1140  cd Desktop/Daily/WSL
+ 1141  cd ..
+ 1142  ls
+ 1143  cd ~
+ 1144  ls
+ 1145  pwd
+ 1146  cd home
+ 1147  ls
+ 1148  cd ..
+ 1149  ls
+ 1150  cd ..
+ 1151  ls
+ 1152  cd etc
+ 1153  ls
+ 1154  cd ..
+ 1155  ls
+ 1156  cd mnt
+ 1157  ls
+ 1158  cd wsl
+ 1159  ls
+ 1160  cd ..
+ 1161  ls
+ 1162  cd c
+ 1163  ls
+ 1164  pwd
+ 1165  cd ..
+ 1166  ls
+ 1167  pwd
+ 1168  ls
+ 1169  cd ..
+ 1170  cd ~
+ 1171  ls
+ 1172  pwd
+ 1173  cd Desktop/Daily/WSL
+ 1174  ls
+ 1175  concd Desktop/Daily/
+ 1176  conda activate py37
+ 1177  ls
+ 1178  pwd
+ 1179  cd hom
+ 1180  cd home
+ 1181  ls
+ 1182  pwd
+ 1183  cd Desktop
+ 1184  cd ..
+ 1185  ls
+ 1186  cd ..
+ 1187  ls
+ 1188  cd usr
+ 1189  ls
+ 1190  cd src
+ 1191  ls
+ 1192  cd ..
+ 1193  cd etc
+ 1194  ls
+ 1195  cd ..
+ 1196  ls
+ 1197  cd ..
+ 1198  ls
+ 1199  cd tmp
+ 1200  ls
+ 1201  cd ..
+ 1202  ls
+ 1203  cd mnt
+ 1204  ls
+ 1205  cd wsl
+ 1206  ls
+ 1207  pwd
+ 1208  cd ..
+ 1209  cd f
+ 1210  ls
+ 1211  cd ..
+ 1212  cd e
+ 1213  ls
+ 1214  cd ..
+ 1215  cd c
+ 1216  ls
+ 1217  cd ..
+ 1218  cd d
+ 1219  ls
+ 1220  cd WSL
+ 1221  ls
+ 1222  cd ..
+ 1223  ls
+ 1224  cd  c
+ 1225  find Desktop
+ 1226  find / Desktop
+ 1227  ls
+ 1228  cd Users
+ 1229  ls
+ 1230  cd hnhtd
+ 1231  ls
+ 1232  cd Desktop/Daily/WSL
+ 1233  ls
+ 1234  mkdir Practice
+ 1235  cd Practice
+ 1236  ls
+ 1237  code
+ 1238  python --version
+ 1239  conda activate 
+ 1240  conda l
+ 1241  conda list
+ 1242  conda env list
+ 1243  coursera-dl cse575 11
+ 1244  pwd
+ 1245  coursera-dl
+ 1246  conda activate py37
+ 1247  ls
+ 1248  coursera-dl
+ 1249  cd /mnt/c/Users/hnhtd/Desktop/Daily
+ 1250  zsh --version
+ 1251  python --version
+ 1252  cd WSL
+ 1253  mkdir Coursera
+ 1254  mkdir Coursera2
+ 1255  cd co
+ 1256  cd Coursera2
+ 1257  pip
+ 1258  pip install coursera-dl 
+ 1259  coursera-dl
+ 1260  coursera-dl cse598deeplearninginvisualcomputing
+ 1261  coursera-dl hands-on-introduction-to-linux-commands-and-shell-scripting
+ 1262  coursera-dl
+ 1263  coursera-dl cse598deeplearninginvisualcomputing
+ 1264  coursera-dl cse598-engineering-blockchain-applications
+ 1265  coursera-dl cse579-knowledge-representation-reasoning
+ 1266  coursera-dl cse575-statistical-machine-learning
+ 1267  coursera-dl cse551
+ 1268  coursera-dl machine-learning
+ 1269  ls
+ 1270  conda activate py37
+ 1271  ls
+ 1272  pwd
+ 1273  cd /mnt/c/Users/hnhtd/Desktop/Daily
+ 1274  ls
+ 1275  cd DataCamp
+ 1276  ls
+ 1277  mkdrir 2022
+ 1278  mkdir    2022
+ 1279  cd 2022
+ 1280  code
+ 1281  زخیث
+ 1282  code
+ 1283  code.
+ 1284  .code
+ 1285  code
+ 1286  conda activate base
+ 1287  code
+ 1288  conda env list
+ 1289  conda activate py382
+ 1290  code
+ 1291  pwd
+ 1292  conda activate py37
+ 1293  ls
+ 1294  code
+ 1295  conda activate py37
+ 1296  cd mnt/c/Users/hnhtd/
+ 1297  cd mnt/c/Users/
+ 1298  ls
+ 1299  pwd
+ 1300  cd mnt
+ 1301  cd ..
+ 1302  pwd
+ 1303  cd ..
+ 1304  pwd
+ 1305  cd /mnt/c/Users/hnhtd/Desktop/Daily
+ 1306  cdcd /mnt/c/Users/hnhtd/Desktop/Daily
+ 1307  cd ~
+ 1308  cd /mnt
+ 1309  cd cd ..
+ 1310  cd..
+ 1311  cd ..
+ 1312  ls
+ 1313  pwd
+ 1314  cd /mnt/c/Users/hnhtd/Desktop/Daily
+ 1315  ls
+ 1316  cd /mnt/c/Users/hnhtd/Desktop/Daily/DataCamp
+ 1317  history > foldercommand1.txt
+ 1318  ls
+ 1319  cd ..
+ 1320  history > foldercommand2.txt
+ 1321  conda activate py37
+ 1322  pwd
+ 1323  cd /mnt/c/Users/hnhtd/Desktop/Daily/DataCamp
+ 1324  ls
+ 1325  tree
+ 1326  sudo apt install tree
+ 1327  tree
+ 1328  echo $telegramToken
+ 1329  echo $PATH
+ 1330  which conda
+ 1331  which python
+ 1332  tree
+ 1333  pwd
+ 1334  sudo
+ 1335  sudo -h
+ 1336  pwd -h
+ 1337  pwd options
+ 1338  pwd a
+ 1339  pwd 
+ 1340  cd /mnt/c/Users/hnhtd/Desktop/Daily/DataCamp
+ 1341  ls
+ 1342  cd /mnt/c/Users/hnhtd/Desktop/Daily/DataCamp/ScreenShots
+ 1343  ls
+ 1344  feh --version
+ 1345  feh --install
+ 1346  sudo apt update
+ 1347  cd
+ 1348  cd /
+ 1349  ls
+ 1350  cd home
+ 1351  ls
+ 1352  cd lg
+ 1353  whoami
+ 1354  pwd
+ 1355  cd /
+ 1356  pwd
+ 1357  cd ~
+ 1358  pwd
+ 1359  cd /mnt/c/Users/hnhtd/Desktop/Daily/DataCamp
+ 1360  pwd
+ 1361  cd ~
+ 1362  ls
+ 1363  pwd
+ 1364  cd /mnt/c/Users/hnhtd/Desktop/Daily/DataCamp
+ 1365  ls
+ 1366  cd ..
+ 1367  cd
+ 1368  cd /home/lg
+ 1369  ls
+ 1370  cd ~
+ 1371  cd
+ 1372  cd /mnt/c/Users/hnhtd/Desktop/Daily/DataCamp
+ 1373  cd ..
+ 1374  ls
+ 1375  mkdir 2022
+ 1376  cd 2022
+ 1377  mkdir python
+ 1378  ls
+ 1379  cd python
+ 1380  history > linux01_Hejazi.txt
+ 1381  ls
+ 1382  cd
+ 1383  cd ~
+ 1384  pwd
+ 1385  cd home
+ 1386  cd /home
+ 1387  ls
+ 1388  cd lg
+ 1389  ls
+ 1390  cd anaconda3
+ 1391  ls
+ 1392  cd /
+ 1393  ls
+ 1394  cd mnt
+ 1395  ls
+ 1396  cd wsl
+ 1397  ls
+ 1398  cd ..
+ 1399  ls
+ 1400  cd d
+ 1401  ls
+ 1402  Sudo apt install ncal
+ 1403  sudo apt install ncal
+ 1404  cal
+ 1405  cal 2020
+ 1406  cal 11 2017
+ 1407  cal -A 1 12 2017
+ 1408  cal -A 2 12 2017
+ 1409  whoami
+ 1410  cd
+ 1411  cd /
+ 1412  ls
+ 1413  cd
+ 1414  ls
+ 1415  pwd
+ 1416  cd /
+ 1417  pwd
+ 1418  conda env list
+ 1419  conda activate CSE579
+ 1420  python --version
+ 1421  which python
+ 1422  pyton 2+24
+ 1423  python 2+22
+ 1424  python
+ 1425  conda activate 382
+ 1426  conda activate py382
+ 1427  python
+ 1428  conda install numpy
+ 1429  ipython
+ 1430  sudo pip3 install ipython
+ 1431  python
+ 1432  pip
+ 1433  sudo pip install ipython
+ 1434  pip install ipython
+ 1435  ipython
+ 1436  conda activate py37
+ 1437  conda install ipython
+ 1438  ipython
+ 1439  jupyter notebook
+ 1440  ls
+ 1441  cd /mnt/c/Users/hnhtd/Desktop/Daily/DataCamp
+ 1442  cd ..
+ 1443  ls
+ 1444  mkdir jupyterNotebooks
+ 1445  cd jupyterNotebooks
+ 1446  jupyter notebook
+ 1447  conda install jupyterlab
+ 1448  jupyter lab
+ 1449  conda append -h
+ 1450  conda config -h
+ 1451  conda config append -h
+ 1452  clear
+ 1453  conda config append -h
+ 1454  conda list
+ 1455  conda list | grep tk
+ 1456  which python3
+ 1457  which python
+ 1458  conda list
+ 1459  conda env list
+ 1460  conda activate py382
+ 1461  which python
+ 1462  which python3
+ 1463  conda config --get channels
+ 1464  conda activate py3
+ 1465  conda activate py37
+ 1466  conda config --get channels
+ 1467  jupyter lab
+ 1468  conda activate py37
+ 1469  cd env
+ 1470  cd envs
+ 1471  cd /
+ 1472  ls
+ 1473  cd
+ 1474  ls
+ 1475  cd anaconda3
+ 1476  ls
+ 1477  cd envs
+ 1478  ls
+ 1479  cd py37
+ 1480  ls
+ 1481  which python
+ 1482  echo $PATH
+ 1483  conda activate py382
+ 1484  echo $PATH
+ 1485  which python
+ 1486  whereis python
+ 1487  pwd
+ 1488  jupyter lab
+ 1489  cd /mnt/c/Users/hnhtd/Desktop/Daily/DataCamp
+ 1490  cd ..
+ 1491  ls
+ 1492  cd Ali\ Hejazi
+ 1493  ls
+ 1494  cd ..
+ 1495  cd 2022
+ 1496  ls
+ 1497  cd python
+ 1498  ls
+ 1499  xdg-open
+ 1500  sudo pip install xdg-open
+ 1501  sudo apt install xdg-open
+ 1502  xdg-open
+ 1503  nautilus
+ 1504  explorer.exe
+ 1505  $ explorer.exe
+ 1506  $explorer.exe
+ 1507  explorer.exe
+ 1508  cd
+ 1509  ls
+ 1510  /mnt/c/Users/hnhtd/Desktop/Daily/2022/python
+ 1511  history > py01_Hejazi.txt
+ 1512  ls
+ 1513  conda activate py37
+ 1514  ls
+ 1515  cd /mnt/c/Users/hnhtd/Desktop/Daily/
+ 1516  ls
+ 1517  cd /mnt/c/Users/hnhtd/Desktop/Daily/2020
+ 1518  ls
+ 1519  cd /mnt/c/Users/hnhtd/Desktop/Daily/2022
+ 1520  ls
+ 1521  cd python
+ 1522  ls
+ 1523  cd ..
+ 1524  cd 2022
+ 1525  ls
+ 1526  jupyter lab
+ 1527  ipython
+ 1528  ls
+ 1529  jupyter lab
+ 1530  conda activate py37
+ 1531  pwd
+ 1532  cd /mnt/c/Users/hnhtd/Desktop/Daily/2022
+ 1533  ls
+ 1534  cd jupyterNotebooks
+ 1535  ls
+ 1536  cd ..
+ 1537  ls
+ 1538  jupyter lab
+ 1539  conda activate py37
+ 1540  scipy
+ 1541  numpy
+ 1542  conda install scipy
+ 1543  conda activate py37
+ 1544  cd /mnt/c/Users/hnhtd/Desktop/Daily/2022
+ 1545  ls
+ 1546  cd /mnt/c/Users/hnhtd/Desktop/Daily/2022/jupyterNotebooks
+ 1547  ls
+ 1548  cd ..
+ 1549  jupyter lab
+ 1550  conda activate py37
+ 1551  cd /mnt/c/Users/hnhtd/Desktop/Daily/2022/jupyterNotebooks
+ 1552  ls
+ 1553  cd Hejazi2022_complement\ notes
+ 1554  ls
+ 1555  conda install pandas
+ 1556  jupyter lab
+ 1557  حصی
+ 1558  pwd
+ 1559  cd /mnt/c/Users/hnhtd/Desktop/Daily/2022/jupyterNotebooks
+ 1560  ls
+ 1561  cd Hejazi2022_complement\ notes
+ 1562  ls
+ 1563  jupyter lab
+ 1564  conda activate py37
+ 1565  pwd
+ 1566  ls
+ 1567  cd /mnt/c/Users/hnhtd/Desktop/Daily/2022/jupyterNotebooks
+ 1568  cd Hejazi2022_complement\ notes
+ 1569  ls
+ 1570  cd ..
+ 1571  ls
+ 1572  cd ..
+ 1573  ls
+ 1574  mkdir git
+ 1575  ls
+ 1576  help
+ 1577  cd..
+ 1578  cd 
+ 1579  cd /mnt/c/Users/hnhtd/Desktop/Daily/2022/jupyterNotebooks
+ 1580  ls
+ 1581  cd ..
+ 1582  ls
+ 1583  cd git
+ 1584  ls
+ 1585  conda env list
+ 1586  conda create --name gitpy37 python=3.7
+ 1587  ls
+ 1588  sudo apt-get install git
+ 1589  sudo apt-get update git
+ 1590  sudo apt-get update
+ 1591  sudo apt-get install git
+ 1592  git --version
+ 1593  mkdri project
+ 1594  mkdir project
+ 1595  cd project
+ 1596  code .
+ 1597  code 
+ 1598  code .
+ 1599  cd ..
+ 1600  ls
+ 1601  conda activate gitpy37
+ 1602  cd project
+ 1603  code .
+ 1604  vscode
+ 1605  conda activate gitpy37
+ 1606  cd /mnt/c/Users/hnhtd/Desktop/Daily/2022
+ 1607  ls
+ 1608  cd git
+ 1609  cd project
+ 1610  code .
+ 1611  vscode
+ 1612  code .
+ 1613  cd /home/lg/
+ 1614  ls
+ 1615  cd /.vscode-server/bin/784b0177c56c607789f9638da7b6bf3230d47a8c/bin/remote-cli/
+ 1616  cd /mnt/c/Users/hnhtd/Desktop/Daily/2022
+ 1617  cd git/project
+ 1618  ls
+ 1619  ~ % code --version
+ 1620  code --version
+ 1621  code
+ 1622  code .
+ 1623  rm -rf ~/.vscode-server
+ 1624  code .
+ 1625  conda activate gitpy37
+ 1626  cd /mnt/c/Users/hnhtd/Desktop/Daily/2022/git/project
+ 1627  l
+ 1628  git --version
+ 1629  code 
+ 1630  code .
+ 1631  Explorer.exe .
+ 1632  ls - a
+ 1633  ls -a
+ 1634  git status
+ 1635  history > git01_Hejazi.txt
+ 1636  ls -a
+ 1637  cat git01_Hejazi.txt
+ 1638  clear
+ 1639  git status
+ 1640  git add main.py
+ 1641  git status
+ 1642  git add utils.py
+ 1643  git status
+ 1644  git commit 
+ 1645  git commmit
+ 1646  git commit
+ 1647  git status
+ 1648  git commit
+ 1649  git commit -m "initialize project"
+ 1650  git status
+ 1651  git log
+ 1652  code ~/.zshrc
+ 1653  code ~/.gitconfig
+ 1654  cd .git
+ 1655  cd .git/
+ 1656  ls
+ 1657  . code
+ 1658  code .
+ 1659  cd ..
+ 1660  cd .git
+ 1661  code .
+ 1662  less .gitconfig
+ 1663  cd
+ 1664  less .gitconfig
+ 1665  cd /mnt/c/Users/hnhtd/Desktop/Daily/2022/git/project
+ 1666  git status
+ 1667  git log
+ 1668  ls
+ 1669  python main.py
+ 1670  git status
+ 1671  git commit -m "update main.py"
+ 1672  git log
+ 1673  git status
+ 1674  git add utils.py
+ 1675  git commit -m "update a function to utils.py"
+ 1676  cd .
+ 1677  cd ..
+ 1678  ls
+ 1679  mkdir clone
+ 1680  cd clone
+ 1681  git clone https://github.com/samnejati/py_practice.git
+ 1682  ls
+ 1683  cd py_practice
+ 1684  ls
+ 1685  git status
+ 1686  cd ..
+ 1687  git status
+ 1688  cd py_practice
+ 1689  ls -d 
+ 1690  ls
+ 1691  ls -a
+ 1692  git status
+ 1693  code .
+ 1694  git status
+ 1695  git add README.md
+ 1696  it clone https://github.com/samnejati/py_practice.git
+ 1697  git commit -m "update README"
+ 1698  git log
+ 1699  git status
+ 1700  git push
+ 1701  git remote remove origin
+ 1702  git status
+ 1703  git remote add origin https://github.com/samnejati/py_practice.git
+ 1704  git push --upstream origin main  
+ 1705  git push -u origin main  
+ 1706  git remote set-url origin git@github.com:samnejati/py_practice.git
+ 1707  git push -u origin main  
+ 1708  git status
+ 1709  git commit -m "update README"
+ 1710  git push -u origin main  
+ 1711  git status
+ 1712  git add README.md
+ 1713  git status
+ 1714  git commit -m "update README"
+ 1715  git push -u origin main  
